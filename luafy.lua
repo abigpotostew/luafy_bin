@@ -5,6 +5,7 @@
 
 -- Tested only on a mac.
 
+-------------------------------------------------------------------------------
 local interpreter_name = "Luafy"
 local version = 0.1
 local luafy_path = '"/Applications/of_v0.8.0_osx_release/apps/myApps/luafy_bin/bin/luafy_binDebug.app/Contents/MacOS/luafy_binDebug"'

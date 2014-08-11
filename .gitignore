@@ -1,2 +1,4 @@
 bin/data/
 bin/luafy_binDebug.app
+bin/*
+.backup
